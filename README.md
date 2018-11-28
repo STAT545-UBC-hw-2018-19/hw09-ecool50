@@ -13,10 +13,10 @@ These functionalities are described below.
 
 # Links of possible interests
 
-* [Assignment Criteria](http://stat545.com/Classroom/assignments/hw08/hw08.html)
-* [Makefile](https://ecool50.shinyapps.io/Hw08_app/)
-* [Prefix Generation](https://github.com/STAT545-UBC-students/hw08-ecool50/blob/master/bcl/app.R)
-* [Demonstration Markdown]()
+* [Assignment Criteria](http://stat545.com/Classroom/assignments/hw09/hw09.html)
+* [Makefile](https://github.com/STAT545-UBC-students/hw09-ecool50/blob/master/Makefile)
+* [Prefix Generation](https://github.com/STAT545-UBC-students/hw09-ecool50/blob/master/Prefix.R)
+* [Demonstration Markdown](https://github.com/STAT545-UBC-students/hw09-ecool50/blob/master/PrefixReport.md)
 
 # Caveats
 * Some of the work here may have been borrowed and modified from other sources.
