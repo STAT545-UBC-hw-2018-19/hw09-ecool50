@@ -1,17 +1,28 @@
-make-activity
-=============
+# Homework 09 Elijah Willie
 
-The commit history of this repository reflects what a student might do as she works through [this activity](http://stat545-ubc.github.io/automation04_make-activity.html) from [STAT 545](http://stat545-ubc.github.io). This fully developed example shows:
+This repo contains my solutions to STAT 545 homework 09. For this assignment, I took a previously developed makefile and added some new functionalities.
+These functionalities are described below.
 
-  * How to run an R script non-interactively
-  * How to use `make`
-    - to record which files are inputs vs. intermediates vs. outputs
-    - to capture how scripts and commands convert inputs to outputs
-    - to re-run parts of an analysis that are out-of-date
-  * The intersection of R and `make`, i.e. how to
-    - run snippets of R code
-    - run an entire R script
-    - render an R Markdown document (or R script)
-  * The interface between RStudio and `make`
-  * How to use `make` from the shell
-  * How Git facilitates the process of building a pipeline
+# New functionalities
+
+* Computed three letter prefixes for all the english words.
+* Plotted a histogram of the top `30` most frequent prefixes.
+* Plotted a word map for all the prefixes.
+* Added a demonstration in a seperate README file
+* Updated the makefile accordingly.
+
+# Links of possible interests
+
+* [Assignment Criteria](http://stat545.com/Classroom/assignments/hw08/hw08.html)
+* [Makefile](https://ecool50.shinyapps.io/Hw08_app/)
+* [Prefix Generation](https://github.com/STAT545-UBC-students/hw08-ecool50/blob/master/bcl/app.R)
+* [Demonstration Markdown]()
+
+# Caveats
+* Some of the work here may have been borrowed and modified from other sources.
+* This was purely done to illustrate some ideas
+* I take no credit for parts of the work that are not mine
+* Let credit be given where it is due. Lets give to Ceasar what belongs to Ceasar
+* The code and data are from [Dean Attali's tutorial](http://stat545.com/automation04_make-activity.html).
+
+
